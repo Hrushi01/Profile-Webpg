@@ -1,0 +1,17 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.whole {
+  background-color: rgba(250, 240, 226, 0.4);
+  width: 40vw;
+  margin-left: 30vw;
+  padding: 1vh;
+  margin-top: 2vh;
+  border-radius: 40px;
+}
+.text {
+  margin: 3vw;
+  border: 3px solid rgb(41, 41, 41);
+  border-radius: 15% 0% 15%;
+}
